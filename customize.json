@@ -1,0 +1,23 @@
+{
+  "greeting": "Chào",
+  "name": "Ngọc Lan",
+  "greetingText": "Anh thực sự thích tên của em!!!",
+  "wishText": "Anh mong anh sẽ luôn được bên cạnh em! ;)",
+  "imagePath": "img/nl.png",
+  "text1": "Hôm nay em vừa chữa lành tâm hồn anh!!! :D",
+  "textInChatBox": "Anh cảm ơn bé vì tất cả nhé!!",
+  "sendButtonLabel": "Gửi",
+  "text2": "Anh định gửi tin nhắn đó cho em.",
+  "text3": "Nhưng sau đó anh dừng lại.",
+  "text4": "Anh nhận ra, Anh muốn làm điều gì đó",
+  "text4Adjective": "Đặc biệt",
+  "text5Entry": "Bởi vì,",
+  "text5Content": "Em là người Đặc biệt",
+  "smiley": ":)",
+  "bigTextPart1": "Vì",
+  "bigTextPart2": "thế",
+  "wishHeading": "Anh cảm ơn Bé Lan, tất cả của anh!",
+  "outroText": "Chỉ đơn giản vậy thôi đó.",
+  "replayText": "Nhấn vào hàng chữ này nếu muốn xem lại nha!!",
+  "outroSmiley": ":)"
+}
